@@ -1,4 +1,4 @@
-# NetCTF
+# NetLab
 Introduction 
 {Basic cheezee likhni hai kii not long mi short mii hona chahiye } 
 
