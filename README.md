@@ -35,7 +35,7 @@ For example:- In a lab you have to perceive the misconfiguration, also it will b
 ## Discussion
 
 Have questions?
-Feel free to ask at [ALBUS SECURITY](https://www.instagram.com/albus_security_edu/) board.
+Feel free to ask at [Albus Security](https://www.instagram.com/albus_security_edu/).
 
 
 
