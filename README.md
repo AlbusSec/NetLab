@@ -2,9 +2,11 @@
 Net Lab
 </h1>
 
+https://medium.com/@as745591
 <p align="center">
 <a href="https://twitter.com/AlbusHacker"><img src="https://img.shields.io/twitter/follow/AlbusHacker?style=social"></a>
 <a href="https://discord.gg/C3Q8Pcj2Q4"><img src="https://img.shields.io/discord/926531140297326682"></a>
+<a href="https://medium.com/@as745591"><img src="https://img.shields.io/badge/Medium-@Albus_Education-Service.svg"</a>
 </p>
 
 <h4 align="center">Welcome to Albus Security</h4>
