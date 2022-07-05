@@ -29,8 +29,6 @@ For example:- In a lab you have to perceive the misconfiguration, also it will b
 This project is licensed under the [MIT license](LICENSE).
 
 ![MIT License](https://danielmiessler.com/images/mitlicense.png)
-
-
  
  
 /**SUPPORT**/
@@ -38,7 +36,7 @@ This project is licensed under the [MIT license](LICENSE).
 
 *If someone finds any flaw or wants any improvement they can contact us and help us improve our labs.*
 
-
+<sup>NOTE: Downloading this repository is likely to cause a false-positive alarm by your anti-virus or anti-malware software, the filepath should be whitelisted. There is nothing in SecLists that can harm your computer as-is, however it's not recommended to store these files on a server or other important system due to the risk of local file include attacks.</sup>
 
  
 
