@@ -1,6 +1,6 @@
-IT'S STILL INCOMPLETE AND WE ARE WORKING ON IT
-
-# NetLab
+<h1 align="center">
+Net Lab
+</h1>
                                               
 /**INTRODUCTION**/
  
