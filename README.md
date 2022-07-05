@@ -34,8 +34,8 @@ For example:- In a lab you have to perceive the misconfiguration, also it will b
 
 ## Discussion
 
-Have questions / doubts / ideas to discuss?
-Feel free to open a discussion on [Github discussions](https://discord.gg/C3Q8Pcj2Q4) board.
+Have questions?
+Feel free to ask at [ALBUS SECURITY](https://www.instagram.com/albus_security_edu/) board.
 
 
 
