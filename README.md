@@ -3,8 +3,10 @@ https://img.shields.io/twitter/follow/AlbusHacker?style=social
 Net Lab
 </h1>
 
+
 <p align="center">
-<a href="(https://twitter.com/AlbusHacker)"><img src="[https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat](https://img.shields.io/twitter/follow/AlbusHacker?style=social)"></a>
+<a href="https://twitter.com/AlbusHacker"><img src="https://img.shields.io/twitter/follow/AlbusHacker?style=social"></a>
+</p>
 <h4 align="center">Welcome to Albus Security</h4>
 
 <>
