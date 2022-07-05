@@ -20,6 +20,14 @@ For example:- In a lab you have to perceive the misconfiguration, also it will b
 
 **Aniket,Prakrati**
 
+
+### Licensing
+
+This project is licensed under the [MIT license](LICENSE).
+
+![MIT License](https://danielmiessler.com/images/mitlicense.png)
+
+
  
  
 /**SUPPORT**/
