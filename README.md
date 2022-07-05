@@ -1,15 +1,14 @@
-https://img.shields.io/twitter/follow/AlbusHacker?style=social
 <h1 align="center">
 Net Lab
 </h1>
 
-
 <p align="center">
 <a href="https://twitter.com/AlbusHacker"><img src="https://img.shields.io/twitter/follow/AlbusHacker?style=social"></a>
 </p>
+
 <h4 align="center">Welcome to Albus Security</h4>
 
-<>
+--
                                               
 /**INTRODUCTION**/
  
