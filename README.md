@@ -13,8 +13,9 @@ Net Lab
 ----
                                               
 ## INTRODUCTION
- 
- 
+
+![Poster](https://user-images.githubusercontent.com/64241933/177379146-77d547ee-b702-44d5-8296-f47258a562f7.png)
+
 Basically In our labs you'll get to improve network configuration skills, troubleshooting and configuring abilities as it's the only unique lab related to networking and you'll have to play and with devices and change their configurations depending upon the levels, reason being they are misconfigured so you'll have to perform and carry out the tasks and in consonance with them you'll have to configure the device. Thus, solving the lab. These will be our basic networking labs and henceforth upcoming labs will be based on IoT, Routers, Multi-layer switches, firewalls etc.
 
 
