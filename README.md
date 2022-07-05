@@ -44,7 +44,7 @@ This project is licensed under the [MIT license](LICENSE).
 
 *If someone finds any flaw or wants any improvement they can contact us and help us improve our labs.*
 
-<sup>NOTE: It's just the starting so the only labs available are the networking labs and after sometime the complexity of the labs will increase according to the topologies.</sup>
+<sup>NOTE: It's just the starting so the only labs available are the  basic networking labs and after sometime the complexity of the labs will increase according to the topologies.</sup>
 
  
 
