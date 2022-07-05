@@ -18,7 +18,9 @@ For example:- In a lab you have to perceive the misconfiguration, also it will b
 /**CONTRIBUTORS**/
 
 
+
 - [Aniket Tyagi](https://www.linkedin.com/in/aniket-tyagi-cyber-world/)
+- [Prakrati Khatri](https://www.linkedin.com/in/prakrati-khatri-076634228/)
 
 
 ### Licensing
