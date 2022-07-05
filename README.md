@@ -2,7 +2,7 @@
 **INTRODUCTION**
  
  
-Basically In our labs you'll get to improve network cli, troubleshooting and configuring abilities as it's the only unique lab related to networking and you'll have to play and with devices and change their configurations, reason being they are misconfigured so you'll have to perform and carry out the tasks and in consonance with them you'll have to configure the device. Thus, solving the lab.
+Basically In our labs you'll get to improve network cli, troubleshooting and configuring abilities as it's the only unique lab related to networking and you'll have to play and with devices and change their configurations depending upon the levels, reason being they are misconfigured so you'll have to perform and carry out the tasks and in consonance with them you'll have to configure the device. Thus, solving the lab.
 
 For example:- In a lab you have to perceive the misconfiguration, Also it will be told you as a hint.
 
