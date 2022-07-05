@@ -10,7 +10,7 @@ Basically In our labs you'll get to improve networking cli skills, troubleshooti
 For example:- In a lab you have to perceive the misconfiguration, also it will be told you as a hint.
 
 
-   **Please don't check and export the config files unless needed** 
+   **Please don't check and export the config files unless needed.**
 
 
 
@@ -18,7 +18,7 @@ For example:- In a lab you have to perceive the misconfiguration, also it will b
 /**CONTRIBUTORS**/
 
 
-*Aniket,Prakrati*
+**Aniket,Prakrati**
 
  
  
