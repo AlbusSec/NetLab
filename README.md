@@ -13,21 +13,23 @@ For example:- In a lab you have to perceive the misconfiguration, Also it will b
 
 
 
-**CONTRIBUTORS** 
+/**CONTRIBUTORS**/
 
 
 *Aniket,Prakrati*
 
  
  
-**SUPPORT**
+/**SUPPORT**/
 
 
 *If someone finds any flaw or wants any improvement they can contact us and help us improve our labs.*
 
 
 
-**SOLUTION**
+**SOLUTION** 
+
+
 WILL BE UPDATE SOON
  
 
