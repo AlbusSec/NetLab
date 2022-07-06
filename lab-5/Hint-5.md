@@ -1,15 +1,15 @@
 ## Interface are not Working Status
-Cisco switches use two different sets of status code. On set of two status code that are also used in routers interface status code. and another set of one status code(Word).
+Cisco switches use two different sets of status code. One set of the two status codes that are also used in router's interface status code and another set of one status code(Word).
 
-let's talk about Single status Code is basically a word that tells the interface are working or not, (Connected, notconnect). Now what about two status code refer the line status and protocol status
-The Line status tell about layer 1 working, and Protocol status tell the layer 2 working. 
+Let's talk about Single status Code which is basically a word that tells either the interface is working or not, i.e (Connected, notconnect). Now, what about the two status codes refering the line status and protocol status.
+The Line status tells about layer 1's working and Protocol status tells about the layer 2's working. 
 
 ## Misson 
- - In this lab, You need to troubleshoot the interface, and find the problem 
+ - In this lab, You will have to troubleshoot the interface and find the problem .
 
 
 ## Hint 
-- The following table list the code combination and define some problem that are commonly occure on interfaces.
+- The following table list is given for the code combination and defining some problems that are commonly occuring on interfaces.
 
 <table>
 <tr>
