@@ -8,3 +8,6 @@ The main reason to enable ipv4 address on layer 2 switch is to allow telnet or s
 
 ## Hint 
 - To Solve the Lab, You have to correct the ip address on device according to vlans.
+
+
+Thank You
