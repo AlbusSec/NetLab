@@ -8,4 +8,4 @@ In the real Network Telnet are moslty ignored and always ssh is used on Real wor
 
 # Hint 
 - You need to configure hostname and domain too but If these things are already configured perfectly, then see that what can be configured.
-- If domain is already configured then mark the domain name.
+- If domain is already configured then mark the domain name to solve the next lab
