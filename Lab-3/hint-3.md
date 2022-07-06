@@ -8,3 +8,5 @@ We all know that a lan acts all devices in the same broadcast domain. Therefore,
 
 ## Hint 
  - Sometimes when you see the configuration of all vlans you can't troubleshoot anything. Therefore, see the particular vlan configuration to troubleshoot a single thing on it.
+
+Thank You
