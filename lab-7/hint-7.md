@@ -8,3 +8,6 @@ The most common problem that occures on Working Interfaces are Duples mismatch a
 
 # Hint 
 -- Focus on late Collision Counter.
+
+
+Thank You
