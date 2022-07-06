@@ -1,10 +1,10 @@
 ## Basic Introduction to SSH
-The SSH server uses the fully qualified domain name (FQDN) of the switch as input to create that key. therefore a switche creates the FQDN from the hostname and domain name of the switch
+The SSH server uses the fully qualified domain name (FQDN) of the switch as input to create that key. Therefore, A switch creates the FQDN from the hostname and domain name of the switch.
 
 ## Misson 
- - Configure a hostname on switch
+ - To configure a hostname on the switch.
 
 
 ## Hint  
- - Again try to work on lab-3
+ - Try again to work on lab-3.
 
