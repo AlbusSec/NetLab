@@ -24,18 +24,8 @@ For example:- In a lab you have to perceive the misconfiguration, also it will b
 
 
    **Please don't check and export the config files unless needed.**
-
-
-
-
-## CONTRIBUTORS
-
-
-
-- [Aniket Tyagi](https://www.linkedin.com/in/aniket-tyagi-cyber-world/)
-- [Prakrati Khatri](https://www.linkedin.com/in/prakrati-khatri-076634228/)
-- [Avyukt Khatri](https://twitter.com/AvyuktSyrine)
-
+   
+   
 ## Discussion
 
 Have questions?
