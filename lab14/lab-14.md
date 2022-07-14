@@ -1,4 +1,5 @@
 ## Introduction to Spanning Tree Algorithms 
+
 Spanning-Tree-Protocol(STP) and Rapid Spanning-Tree-Protocol(Rapid STP) allows an ethernet LAN to have the addition of redundant links in a lan because Whenever you implement redundant links on your network without spanning tree algorithm it makes causes, that cause makes many problems on your network. Therefore, Spanning Tree algorithm allow the network to use redundancy link without any causing some looping problems, Mac stability.
 
 
