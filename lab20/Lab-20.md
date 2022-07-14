@@ -4,7 +4,7 @@ Switch used per flow balancing to balance the load this is the work by which har
 
 ## Misson 
 
-- Verify that the network engineer correctly configured the EtherChannel, If yes then leave, and if not then configure whole thing in the network.
+- Verify that the network engineer correctly configured the EtherChannel, If yes then You don't need to do anything, and if not then configure whole thing in the network.
 - Check that your load distrubution setting has worked correctly, after configuration.
 
 ## Hint 
