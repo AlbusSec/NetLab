@@ -5,10 +5,12 @@ Most Switches support two dynamic protocols, Cisco Port Aggregation Protocol (PA
 
 
 ## Misson
+
 - In this lab, You are the Network Administrator, And Your network already run Pagp, But You have a task to implement LACP on your Network.
 
 
 ## Hint
+
 - Use one of the commands to verify the Etherchannel Configuration.
 
 Thank You
