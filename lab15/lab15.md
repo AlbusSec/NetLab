@@ -9,6 +9,7 @@ In spanning tree topology, Switches elect a root switch based on the BID(Bridge 
 
 ## Hint
 - STP/RSTP works by default on Cisco Switch, so all the settings needed by a switch have a default value. However, switch have default BID, based on a default priorty value and adding a Universal Mac address that comes with the switch hardware, Also switch have default Administrative cost/root cost based on the current operating speed of the switch interfaces.
+
 - If you ignored the lab-4 then go there and Take something from lab4 and use it. 
 
 
