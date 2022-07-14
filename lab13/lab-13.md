@@ -7,6 +7,6 @@
 
 
 ## Hint 
-- identify the native vlans of switches 
+- identify the native vlans of switches
 
 Thank You
