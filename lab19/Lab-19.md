@@ -3,11 +3,11 @@ Etherchannel Also handle load that was generate from interfaces. But it doesn't 
 
 
 ## Misson
-Verify that the network engineer correctly configured the EtherChannel, If yes then leave, and if not then configured whole things in the network
-Analyze the load balancing method, therefore If the switch use the src mac method for load balancing, then change it into sec-dst-mac.
+-Verify that the network engineer correctly configured the EtherChannel, If yes then leave, and if not then configured whole things in the network
+-Analyze the load balancing method, therefore If the switch use the src mac method for load balancing, then change it into sec-dst-mac.
 
 
 ## Hint
-Use some show command to verify the etherchannl configurations.
+-Use some show command to verify the etherchannl configurations.
 
 Thank You
