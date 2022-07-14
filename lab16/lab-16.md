@@ -5,11 +5,11 @@ Etherchannel combines multiple parallel pairs of the same determined speed betwe
 
 
 ## Misson
-- In this lab, Engineer poorly configured Etherchannel on the Network 
+- In this lab, Engineer poorly configured the Etherchannel on the Network. 
 
 
 ## Hints 
-- Whenever You want to implement Etherchannel, after the configuration always see the configuration logs to verify the whole process
+- Whenever You want to implement Etherchannel after the configuration always see that the configuration logs to verify the whole process.
 
 
 Thank You
